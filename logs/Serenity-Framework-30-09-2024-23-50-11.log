@@ -1,0 +1,42 @@
+2024-09-30 23:50:11,651 500  [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+
+2024-09-30 23:50:11,655 504  [main] INFO   - Test Suite Started: BookStore Rest Assured API
+2024-09-30 23:50:11,691 540  [main] INFO   - Test Suite Started: Internet Heroku Selenium Feature
+2024-09-30 23:50:11,692 541  [main] INFO   - Test Suite Started: BookStore Rest Assured API
+2024-09-30 23:50:11,804 653  [main] INFO   - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Get Call for Books(bookstore-rest-assured-api;get-call-for-books)
+--------------------------------------------------------------------------------
+2024-09-30 23:50:11,837 686  [main] INFO  hooks.projectHooks - Setup :: STARTS
+2024-09-30 23:50:11,922 771  [main] INFO  n.s.c.w.d.ChromeDriverProvider - Starting Chrome driver instance with capabilities:
+2024-09-30 23:50:11,924 773  [main] INFO  n.s.c.w.d.ChromeDriverProvider - Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+2024-09-30 23:50:17,740 6589 [main] INFO  hooks.projectHooks - Setup :: ENDS
+2024-09-30 23:50:22,599 11448 [main] ERROR  - 
+  _____   ___   ___   _____     ___   ___   ___    ___    ___ 
+ |_   _| | __| / __| |_   _|   | __| | _ \ | _ \  / _ \  | _ \
+   | |   | _|  \__ \   | |     | _|  |   / |   / | (_) | |   /
+   |_|   |___| |___/   |_|     |___| |_|_\ |_|_\  \___/  |_|_\
+
+Get Call for Books
+---------------------------------------------------------------
+2024-09-30 23:50:22,601 11450 [main] ERROR  -     Test failed at step: User verifies the books
+2024-09-30 23:50:22,601 11450 [main] ERROR  -     com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "books" (class pojos.Books), not marked as ignorable (9 known properties: "pages", "isbn", "title", "author", "publisher", "publish_date", "subTitle", "website", "description"])

@@ -1,0 +1,40 @@
+2024-09-30 18:04:27,316 621  [main] INFO   - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+
+2024-09-30 18:04:27,322 627  [main] INFO   - Test Suite Started: BookStore Rest Assured API
+2024-09-30 18:04:27,365 670  [main] INFO   - Test Suite Started: Internet Heroku Selenium Feature
+2024-09-30 18:04:27,366 671  [main] INFO   - Test Suite Started: Internet Heroku Selenium Feature
+2024-09-30 18:04:27,523 828  [main] INFO   - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Verifying Title of the home page(internet-heroku-selenium-feature;verifying-title-of-the-home-page)
+--------------------------------------------------------------------------------
+2024-09-30 18:04:27,567 872  [main] INFO  hooks.projectHooks - Setup :: STARTS
+2024-09-30 18:04:27,692 997  [main] INFO  n.s.c.w.d.ChromeDriverProvider - Starting Chrome driver instance with capabilities:
+2024-09-30 18:04:27,694 999  [main] INFO  n.s.c.w.d.ChromeDriverProvider - Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [remote-allow-origins=*], extensions: []}}
+2024-09-30 18:04:33,693 6998 [main] INFO  hooks.projectHooks - Setup :: ENDS
+2024-09-30 18:04:35,681 8986 [main] INFO   - 
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+Verifying Title of the home page
+----------------------------------------------------------------------
